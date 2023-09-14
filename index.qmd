@@ -1,7 +1,7 @@
 ---
-title: "Quarto_website"
+title: "Welcome!"
 ---
 
-This is a Quarto website.
+There is nothing to be found at this moment...
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Check back in later!
